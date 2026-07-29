@@ -100,3 +100,6 @@ number-guessing-game/
 ## Author
 
 Submitted as part of the Think Champ Pvt Ltd internship program.
+
+
+naveen change 
