@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Number Guessing Game
 
 A simple console-based Number Guessing Game built for the Think Champ Pvt Ltd
@@ -100,3 +101,6 @@ number-guessing-game/
 ## Author
 
 Submitted as part of the Think Champ Pvt Ltd internship program.
+=======
+# number-guessing-game
+>>>>>>> 05b9b92aa5b64df8e70df32ad9f1d10bf8c6a4de
